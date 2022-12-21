@@ -1,0 +1,23 @@
+= Katas to explore AsciiDoc
+:repo: https://github.com/ahus1/asciidoc-kata/blob/main
+
+This is a list of short exercises to get to know AsciiDoc.
+Open the files in this repository in your favorite IDE, or click on the pencil icon to edit them in a web editor.
+
+. xref:01_formatting.adoc[Formatting of Texts]
+https://anita-editor.ahus1.de/#{repo}/01_formatting.adoc[✏️]
+
+. xref:02_lists.adoc[Using Lists]
+https://anita-editor.ahus1.de/#{repo}/02_lists.adoc[✏️]
+
+. xref:03_tables.adoc[Using Tables]
+https://anita-editor.ahus1.de/#{repo}/03_tables.adoc[✏️]
+
+. xref:04_images-and-diagrams.adoc[Images and Diagrams]
+https://anita-editor.ahus1.de/#{repo}/04_images-and-diagrams.adoc[✏️]
+
+. xref:05_structuring.adoc[Structuring a document]
+https://anita-editor.ahus1.de/#{repo}/05_structuring.adoc[✏️]
+
+. xref:06_sourcecode.adoc[Adding Sourcecode examples]
+https://anita-editor.ahus1.de/#{repo}/06_sourcecode.adoc[✏️]
