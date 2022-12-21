@@ -8,11 +8,11 @@ unorderd lists] and the following chapters.
 
 Try out:
 
-* a simple list with bullets
-* nesting lists
-* a numbered list
-* check marks
-* list items that have multiple paragraphs
+* A simple list with bullets.
+* Nesting lists.
+* A numbered list.
+* Check marks.
+* List items that have multiple paragraphs.
 ====
 
 Here you go, just type along!

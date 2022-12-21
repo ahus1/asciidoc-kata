@@ -5,7 +5,7 @@ Once you're fine with formatting, add some images!
 
 * Reference an image.
 * Give it a title.
-* link the image to an external target.
+* Link the image to an external target.
 
 This editor supports diagrams via https://github.com/Mogztter/asciidoctor-kroki#usage[Asciidoctor Kroki].
 Use it to add a diagram using PlantUML or other providers.

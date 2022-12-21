@@ -8,12 +8,12 @@ Section Titles and Levels].
 
 Try out:
 
-* multiple chapters
-* nested sub-chapters - how many level can you go?
-* add a table of contents (TOC)
-* configure how many levels should be shown in the TOC
-* add section numbers
-* configure how many level should have section numbers
+* Multiple chapters.
+* Nested sub-chapters -- how many level can you go?
+* Add a table of contents (TOC).
+* Configure how many levels should be shown in the TOC.
+* Add section numbers.
+* Configure how many level should have section numbers.
 ====
 
 Here you go, just type along!
