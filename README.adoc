@@ -1,8 +1,18 @@
 = Katas to explore AsciiDoc
 :repo: https://github.com/ahus1/asciidoc-kata/blob/main
 
+== About
+
+This is part of an https://www.ahus1.de/post/interactive-asciidoc-training[interactive AsciiDoc workshop that I teach both on-line and on-site]. Contact me if you want to book it for your company or event.
+
+If you want to write AsciiDoc in an IDE like IntelliJ IDE, have a look at the online course that I recorded for Udemy: https://intellij-asciidoc-plugin.ahus1.de/docs/users-guide/technical-writing/index.html[Technical Writing with AsciiDoc and IntelliJ IDEA].
+
+== Get Started
+
 This is a list of short exercises to get to know AsciiDoc.
 Open the files in this repository in your favorite IDE, or click on the pencil icon to edit them in a web editor.
+
+To solve the tasks, all information is available as part of the https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc online documentation].
 
 . xref:01_formatting.adoc[Formatting of Texts]
 https://anita-editor.ahus1.de/#{repo}/01_formatting.adoc[✏️]
